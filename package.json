@@ -1,5 +1,5 @@
 {
-  "name": "Cropbank",
+  "name": "cropbank",
   "version": "1.0.0",
   "description": "CropBank é uma forma simples e inovadora de análise e concessão de crédito rural como você nunca viu.",
   "main": "index.js",
