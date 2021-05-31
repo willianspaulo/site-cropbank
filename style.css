@@ -455,8 +455,8 @@ ul.dropdown li a:hover {
     top: 0;
     width: 100%;
     height: 100vh;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(61, 61, 61, 0.9)), color-stop(rgba(40, 42, 85, 0.8)), to(rgba(21, 27, 51, 0.8)));
-    background-image: linear-gradient(to bottom, rgba(53, 56, 152, 0.9), rgba(40, 42, 85, 0.8), rgba(21, 27, 51, 0.8))
+    /* background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(61, 61, 61, 0.9)), color-stop(rgba(40, 42, 85, 0.8)), to(rgba(21, 27, 51, 0.8)));
+    background-image: linear-gradient(to bottom, rgba(53, 56, 152, 0.9), rgba(40, 42, 85, 0.8), rgba(21, 27, 51, 0.8)) */
 }
 .header-image-area-2::before {
     content: '';
@@ -1894,8 +1894,8 @@ a:focus {
 }
 
 .mission-content ul li {
-    list-style: none;
-    list-style-image: url('img/./list.png');
+    list-style: disc;
+    /* list-style-image: url('img/./list.png'); */
     line-height: 28px
 }
 
